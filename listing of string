@@ -1,0 +1,4 @@
+var = ['Shihab','Prince','Sadia']
+for s in var:
+    print(s)
+    print(len(s))
